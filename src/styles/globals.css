@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  background-color: #303446;
+  color: white;
+}
+
+.mt-custom{
+  margin-top: 17%;
+}
